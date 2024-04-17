@@ -1,2 +1,2 @@
 # cienciapelanatureza
-ambiente colaborativo de inovação em pesquisa e desenvolvimento socioambiental
+ambiente colaborativo de inovação em vivência, pesquisa e desenvolvimento socioambiental
